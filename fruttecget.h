@@ -19,6 +19,8 @@
 
 #include "fruttecset.h"
 
+//prueba
+
 class FruttecGet : public QObject
 {
     Q_OBJECT
