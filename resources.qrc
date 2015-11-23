@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/fruttec.png</file>
+        <file>img/error.png</file>
+        <file>img/tick.png</file>
+        <file>img/palet.png</file>
+        <file>img/folder_edit.png</file>
+        <file>img/bullet_green.png</file>
+        <file>img/bullet_orange.png</file>
+        <file>img/bullet_red.png</file>
+        <file>img/clock_pause.png</file>
+        <file>img/information.png</file>
+    </qresource>
+</RCC>
