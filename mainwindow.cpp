@@ -81,4 +81,4 @@ MainWindow::~MainWindow()
     }
     delete ui;
 }
-//Mainwindow es una prueba1
+//Mainwindow es una prueba10
