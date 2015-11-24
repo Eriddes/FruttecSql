@@ -1,5 +1,7 @@
 #include "fruttecget.h"
 
+
+//Es es un comentario
 FruttecGet::FruttecGet(QObject *parent) : QObject(parent){
 
     db = new QSqlDatabase();
