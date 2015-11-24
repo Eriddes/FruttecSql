@@ -19,7 +19,7 @@
 
 #include "fruttecset.h"
 
-//prueba 2
+
 
 class FruttecGet : public QObject
 {
