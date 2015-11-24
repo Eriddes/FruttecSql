@@ -1,6 +1,9 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
+
+
+//Mainwindow es una prueba
 MainWindow::MainWindow(QWidget *parent) :QMainWindow(parent),ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
@@ -67,6 +70,7 @@ void MainWindow::addToTree(QTreeWidget *tree, QMap<QString,QVariant> mapRow)
        }
    }*/
 }
+//Mainwindow es una prueba0
 MainWindow::~MainWindow()
 {
     for(int i=0; i < QSqlDatabase::connectionNames().size(); i++)
@@ -77,3 +81,4 @@ MainWindow::~MainWindow()
     }
     delete ui;
 }
+//Mainwindow es una prueba1
